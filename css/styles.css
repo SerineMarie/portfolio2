@@ -1,0 +1,42 @@
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+h1 {
+  color: #45858C;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+}
+
+h2 {
+  color: #A0D9D9;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+}
+
+p {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+}
+
+.containerCard {
+  border: 2px solid #45858C;
+  border-radius: 5px;
+  width: 80%;
+  padding: 1%;
+}
+
+.image {
+  width: 50%;
+}
+
+.container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+/*# sourceMappingURL=styles.css.map */

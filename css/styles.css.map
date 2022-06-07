@@ -1,0 +1,15 @@
+{
+    "version": 3,
+    "mappings": "ACAA,AAAA,CAAC,CAAC;EACE,UAAU,EAAE,UAAU;CACzB;;AEFD,AAAA,EAAE,CAAA;EACE,KAAK,EDEI,OAAO;ECDhB,WAAW,EDFA,QAAQ,EAAE,UAAU;ECG/B,WAAW,EAAE,GAAG;CACnB;;AAED,AAAA,EAAE,CAAA;EACE,KAAK,EDHM,OAAO;ECIlB,WAAW,EDRA,QAAQ,EAAE,UAAU;ECS/B,WAAW,EAAE,GAAG;CACnB;;AACD,AAAA,CAAC,CAAA;EACG,WAAW,EDZA,QAAQ,EAAE,UAAU;ECa/B,WAAW,EAAE,GAAG;CACnB;;ACdD,AAAA,cAAc,CAAA;EACV,MAAM,EAAE,GAAG,CAAC,KAAK,CFER,OAAO;EEDhB,aAAa,EAAE,GAAG;EAClB,KAAK,EAAE,GAAG;EACV,OAAO,EAAE,EAAE;CACd;;ACLD,AAAA,MAAM,CAAA;EACF,KAAK,EAAE,GAAG;CACb;;ACFD,AAAA,UAAU,CAAC;EACP,OAAO,EAAE,IAAI;EACb,eAAe,EAAE,aAAa;CACjC",
+    "sources": [
+        "../sass/styles.scss",
+        "../sass/partials/_body.scss",
+        "../sass/partials/_variables.scss",
+        "../sass/partials/_typography.scss",
+        "../sass/partials/_card.scss",
+        "../sass/partials/_images.scss",
+        "../sass/partials/_index.scss"
+    ],
+    "names": [],
+    "file": "styles.css"
+}

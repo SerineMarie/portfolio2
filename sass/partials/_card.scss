@@ -1,0 +1,17 @@
+.containerCard{
+    border: 2px solid getColor(primary);
+    border-radius: 5px;
+    // width: 60%;
+    padding: 1%;
+    box-shadow: 6px 6px 15px getColor(primary);
+}
+
+.links{
+    display: flex;
+    flex-direction: column;
+
+    .link{
+        text-decoration: none;
+        color: black;
+    }
+}

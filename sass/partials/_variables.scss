@@ -1,0 +1,10 @@
+$primary-font: "Roboto", sans-serif;
+
+$colors: (
+    primary: #45858C,
+    secondary: #A0D9D9,
+);
+
+@function getColor($color){
+    @return map-get($colors, $color);
+}
