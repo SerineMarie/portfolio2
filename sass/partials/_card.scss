@@ -1,8 +1,8 @@
 .containerCard{
     border: 2px solid getColor(primary);
     border-radius: 5px;
-    // width: 60%;
     padding: 1%;
+    margin-bottom: 1%;
     box-shadow: 6px 6px 15px getColor(primary);
 }
 
@@ -13,5 +13,6 @@
     .link{
         text-decoration: none;
         color: black;
+        padding-bottom: 1rem;
     }
 }

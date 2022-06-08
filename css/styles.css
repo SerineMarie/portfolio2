@@ -1,6 +1,8 @@
 * {
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+
 }
 
 h1 {
@@ -25,18 +27,25 @@ p {
   border-radius: 5px;
   width: 80%;
   padding: 1%;
+  margin-bottom: 5%;
 }
 
 .image {
-  width: 50%;
+  width: 80%;
 }
 
-.container {
-  display: -webkit-box;
-  display: -ms-flexbox;
+.container{
+  margin: auto;
+  width: 70%;
+}
+
+.links{
   display: flex;
-  -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
+  flex-direction: column;
+}
+.link{
+  text-decoration: none;
+  color: black;
+  padding-bottom: 1rem;
 }
 /*# sourceMappingURL=styles.css.map */
